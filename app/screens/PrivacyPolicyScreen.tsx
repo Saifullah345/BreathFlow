@@ -36,7 +36,7 @@ export const PrivacyPolicyScreen: React.FC<PrivacyPolicyScreenProps> = ({
       <View style={styles.webViewContainer}>
         <WebView
           source={{
-            uri: "https://www.termsfeed.com/live/7505ce69-ca4c-43c3-9c47-001aac125edf",
+            uri: "https://www.termsfeed.com/live/267e7202-7f58-45d2-b34f-b51ecaac616a",
           }}
           style={styles.webView}
           startInLoadingState={true}
